@@ -39,7 +39,7 @@ beta_settings:
 
 Add doctrine to composer:
 ```
-composer install doctrine
+composer require doctrine
 ```
 
 Change doctrine config to:

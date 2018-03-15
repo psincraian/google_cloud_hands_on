@@ -31,7 +31,7 @@ env_variables:
 
 This file tells App Engine all about our service, like the programming language,
 what to execute, and so on. You can configure the number of instances that will
-handle the requests, the memory of the instances, etcetera.
+handle the requests, the memory of the instances and so on.
 
 Then execute `gcloud app deploy` to deploy the app to App Engine. This will
 take some time.

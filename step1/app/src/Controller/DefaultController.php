@@ -11,6 +11,6 @@ class DefaultController extends Controller
      */
     public function index()
     {
-        return new Response('With <3 from Barcelona');
+        return new Response('With ❤ from Barcelona');
     }
 }
