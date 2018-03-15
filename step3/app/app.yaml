@@ -1,0 +1,12 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
+
+env_variables:
+  APP_ENV: dev
+  APP_SECRET: 0ca71dea3918bfac138b5ba990036d27
+
+beta_settings:
+  cloud_sql_instances: poetic-pottery-198108:europe-west2:db

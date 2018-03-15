@@ -1,0 +1,9 @@
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: public
+
+env_variables:
+  APP_ENV: dev
+  APP_SECRET: 0ca71dea3918bfac138b5ba990036d27
